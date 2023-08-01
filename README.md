@@ -1,12 +1,18 @@
 # AI4Uyghur
 This repository includes AI/ML resources for Uyghur
 
+#Speech
 
 ## Tools/Libraries
 
 <div align="right">
     <b><a href="#contents">↥ Back To Top</a></b>
 </div>
+
+#NLP
+
+
+#OCR
 
 ## Contrubuting
 
