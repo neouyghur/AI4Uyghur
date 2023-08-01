@@ -12,6 +12,10 @@ This repository includes AI/ML resources for Uyghur
 # NLP
 
 
+## Datasets
+- [Tatoeba: Multilingual Sentences.](https://tatoeba.org/ug/downloads)
+
+
 # OCR
 
 ## Contrubuting
