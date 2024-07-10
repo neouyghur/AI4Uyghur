@@ -13,7 +13,8 @@ This repository includes AI/ML resources for Uyghur
 
 - [speechmatics](https://www.speechmatics.com/)
 
-## Tools/Libraries
+### Datasets
+- [CommonVoice](https://commonvoice.mozilla.org)
 
 <div align="right">
     <b><a href="#contents">↥ Back To Top</a></b>
