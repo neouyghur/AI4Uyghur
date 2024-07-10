@@ -3,6 +3,11 @@ This repository includes AI/ML resources for Uyghur
 
 # Speech
 
+## Speech-to-Text
+
+### Open-source models
+- [whisper-small](https://huggingface.co/osman/whisper-small-ug)
+
 ### Commercial Softwares
 - [soniq.ai](https://sonix.ai/)
 
