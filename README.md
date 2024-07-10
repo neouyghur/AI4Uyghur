@@ -5,6 +5,7 @@ This repository includes AI/ML resources for Uyghur
 
 ### Commercial Softwares
 [soniq.ai](https://sonix.ai/)
+
 [speechmatics](https://www.speechmatics.com/)
 
 ## Tools/Libraries
